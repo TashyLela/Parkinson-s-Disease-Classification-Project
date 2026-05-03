@@ -1,0 +1,11 @@
+# Ignore Jupyter temporary files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore data files
+*.csv
+*.data
+*.txt
