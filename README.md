@@ -44,5 +44,5 @@ How to Run
 
 2\. Open the Jupyter Notebook located in the `/notebooks` folder.
 
-3\. Run the cells sequentially to see the pipeline from data cleaning to evaluation.
+3\. Run the cells sequentially to see pipeline from data cleaning to evaluation.
 
